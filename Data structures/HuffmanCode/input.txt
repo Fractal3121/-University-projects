@@ -1,0 +1,1 @@
+Cybernetics, control theory as it is applied to complex systems. Cybernetics is associated with models in which a monitor compares what is happening to a system at various sampling times with some standard of what should be happening, and a controller adjusts the system’s behaviour accordingly. 
